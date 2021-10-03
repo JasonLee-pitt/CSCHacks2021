@@ -11,6 +11,7 @@ We anticipate that time constraints might limit what we can build since most of 
 
 
 Team Information
+----------------
 **Jason Lee**
 
 Neuroscience and Computational Biology, 2024
