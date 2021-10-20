@@ -35,3 +35,4 @@ MVP Demo
 2. Download the folder
 3. Open the folder and attempt to run the application(You may need to install a runner to run it but if you try to run it it should tell you what you need)
 4. Now this is a very early version of the game so for right now the mouse won't appear on the main menu screen. If you computer is touch screen then just push start otherwise click the windows icon on your keyboard to make the mouse appear then hit start
+5. Space bar to jump and arrow keys to move back and forth
